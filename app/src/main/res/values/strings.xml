@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CampoCustom</string>
+
+    <string name="hint_edit">Mensaje</string>
+    <string name="btn_text">Enviar</string>
+
+    <string name="msj_error">ERROR Campo::setOnClick</string>
+    <string name="llave_msj">mensaje</string>
+</resources>

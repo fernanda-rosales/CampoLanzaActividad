@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Campo">
+        <attr name="hint" format="string"></attr>
+        <attr name="etiqueta" format="string"></attr>
+    </declare-styleable>
+</resources>
